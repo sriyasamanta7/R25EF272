@@ -5,3 +5,5 @@ Hello! I am a 2nd-year B.Tech Computer Science and Engineering student. This rep
 Learning C, Java, and Data Structures.
 ## Interests
 Interested in web development and technology.
+## Goals
+Goal: Build real-world projects and contribute to open source.
